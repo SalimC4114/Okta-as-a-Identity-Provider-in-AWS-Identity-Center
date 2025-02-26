@@ -73,7 +73,7 @@ In this project, I integrated **Okta as an Identity Provider (IdP) for AWS Ident
 3. Choose the users or groups you want to provision to AWS.
 4. Click **Save and Done**.
 
-Now, Okta will automatically sync users and groups to AWS Identity Center via **SCIM**! 🚀
+Now, Okta will automatically sync users and groups to AWS Identity Center via **SCIM**!
 
 ---
 
@@ -87,8 +87,8 @@ Now, Okta will automatically sync users and groups to AWS Identity Center via **
 
 ## Next Steps
 Want to enhance this? You can:
-- 🔹 Enable **Just-in-Time (JIT) provisioning** for faster user access.
-- 🔹 Use **Okta Workflows** to automate user lifecycle management.
-- 🔹 Integrate **MFA policies** for extra security.
+- Enable **Just-in-Time (JIT) provisioning** for faster user access.
+- Use **Okta Workflows** to automate user lifecycle management.
+- Integrate **MFA policies** for extra security.
 
 This setup ensures **secure, automated user provisioning** and **seamless access management** between Okta and AWS Identity Center!
