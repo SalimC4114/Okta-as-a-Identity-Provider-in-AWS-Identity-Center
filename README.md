@@ -3,7 +3,9 @@ In this project, I integrated Okta as an Identity Provider (IdP) for AWS Identit
 
 Overview
 In this project, I integrated Okta as an Identity Provider (IdP) for AWS Identity Center (formerly AWS SSO). This setup allows users to log into AWS using their Okta credentials, making access management much more secure and streamlined.  Now, with Okta handling authentication, users sign in once and get secure access to AWS based on their assigned roles. 
-What I Did
+
+**What I Did
+
 Configured Okta as an external IdP using SAML 2.0
 Linked Okta user groups to AWS IAM roles for role-based access
 Uploaded metadata between Okta and AWS to establish the trust connection
